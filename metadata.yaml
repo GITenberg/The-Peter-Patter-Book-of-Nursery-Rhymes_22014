@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '25037'
     url: http://www.gutenberg.org/2009/agents/25037
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22014#The-Peter-Patter-Book-of-Nursery-Rhymes
 gutenberg_bookshelf: Children's Verse
 gutenberg_issued: '2007-07-07'
 gutenberg_type: Text
